@@ -1,0 +1,9 @@
+classes= 5
+
+train  = /home/air/big_yolo_dataset/train.txt
+
+valid  = /home/air/big_yolo_dataset/validation.txt
+
+names = /home/air/big_yolo_dataset/obj.names
+
+backup = backup

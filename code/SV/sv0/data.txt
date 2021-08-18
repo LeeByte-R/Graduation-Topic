@@ -1,0 +1,4 @@
+fire=green
+person=5
+dog=0
+cat=0
